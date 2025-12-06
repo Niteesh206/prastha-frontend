@@ -20,7 +20,7 @@ export function DashboardShell({ tabs, activeTab, onTabChange, children }: Dashb
           <div>
             <p className="text-sm uppercase tracking-[0.3em] text-slate-500">Prastha</p>
             <h1 className="text-4xl font-semibold text-slate-900 dark:text-white sm:text-5xl lg:text-6xl">
-              Thread Radar
+              Threads Radar
             </h1>
           </div>
         </header>
